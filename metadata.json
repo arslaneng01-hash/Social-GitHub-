@@ -1,0 +1,6 @@
+{
+  "name": "SocialTools Hub",
+  "description": "Bilingual (English & Arabic) AI social media content studio, campaign planner, and post scheduler with Meta Graph API readiness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
